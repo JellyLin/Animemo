@@ -1,2 +1,14 @@
-/cache/
-/config/development/
+app/config/config.ini*
+cache/volt/*.php
+schemas/
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+.project
+.settings
+.buildpath
+*.komodoproject
+*.sublime-project
+*.sublime-workspace
+.idea/
